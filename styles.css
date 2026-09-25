@@ -54,11 +54,9 @@
     .context-low{
         position:absolute;
         inset:6rem auto auto 5rem;
-        z-index:1;
         width:18rem;
         height:10rem;
         background:#f1f1f1;
-        transform:translateZ(0);
     }
     .callout{
         position:absolute;
