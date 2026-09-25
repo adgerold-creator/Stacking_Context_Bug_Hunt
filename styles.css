@@ -91,7 +91,7 @@
     }
     .decorative-overlay{
         position:absolute;
-        pointer-events: none
+        pointer-events: none;
         inset:0;
         z-index:2;
         background:linear-gradient(135deg,transparent 40%,rgb(255 198 39/.65) 40% 60%,transparent 60%);
